@@ -24,7 +24,6 @@ Clone the repository and navigate through the `build` directory on Terminal (mac
 
 Run the Unix executable `OSM_A_star_search` specifying the path of the file:
 ```bash
-% cd ./build
 % ./OSM_A_star_search -f ../data/ulaanbaatar_city_centre.osm
 ```
 
